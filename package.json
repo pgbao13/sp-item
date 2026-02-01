@@ -1,0 +1,14 @@
+{
+  "name": "com.sp.item",
+  "displayName": "SP item",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "item utility scripts",
+  "author": {
+    "name": "stormphan",
+    "email": "pgbao13@gmail.com",
+    "url": "https://github.com/pgbao13/sp-item"
+  },
+  "dependencies": {
+  }
+}
